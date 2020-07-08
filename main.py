@@ -1,0 +1,1 @@
+print('Menggunakkan OOP')
