@@ -1,1 +1,1 @@
-print('Menggunakkan OOP')
+print('Menggunakan OOP')
